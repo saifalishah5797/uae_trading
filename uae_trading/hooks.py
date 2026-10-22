@@ -1,8 +1,8 @@
 app_name = "uae_trading"
-app_title = "UAE Trade"
-app_publisher = "Saif"
-app_description = "This is a Trade Business"
-app_email = "uae@gmail.com"
+app_title = "UAE TRADE"
+app_publisher = "saifd"
+app_description = "this is app"
+app_email = "saif@gmail.com"
 app_license = "mit"
 
 # Apps
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "uae_trading",
 # 		"logo": "/assets/uae_trading/logo.png",
-# 		"title": "UAE Trade",
+# 		"title": "UAE TRADE",
 # 		"route": "/uae_trading",
 # 		"has_permission": "uae_trading.api.permission.has_app_permission"
 # 	}
