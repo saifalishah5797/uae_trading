@@ -25,8 +25,6 @@ def setup_custom_fields():
         "Item": [
             dict(fieldname="hs_code", label="HS Code", fieldtype="Data",
                  insert_after="item_group"),
-            dict(fieldname="country_of_origin", label="Country of Origin",
-                 fieldtype="Link", options="Country", insert_after="hs_code"),
         ],
     }
     create_custom_fields(fields, update=True)
